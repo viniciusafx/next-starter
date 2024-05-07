@@ -8,10 +8,10 @@ pnpm create next-app --example https://github.com/viniciusafx/next-starter
 
 # O que está incluido
 
-Typescript: Não
-Eslint: Sim
-TailwindCss: Sim
-Src Dir: Sim
-App Router: Sim
-Import Alias: Não
-Prettier: Sim
+- Typescript: Não
+- Eslint: Sim
+- TailwindCss: Sim
+- Src Dir: Sim
+- App Router: Sim
+- Import Alias: Não
+- Prettier: Sim
